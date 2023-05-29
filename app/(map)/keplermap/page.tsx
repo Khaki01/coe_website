@@ -34,7 +34,7 @@ export default function KeplerMap() {
               alt="Features 01"
             /> */}
             <iframe
-              src="https://kepler.gl/#/demo?mapUrl=https://raw.githubusercontent.com/Khaki01/khaki01.github.io/main/kepler.gl.json"
+              src="https://kepler.gl/#/demo?mapUrl=https://raw.githubusercontent.com/Khaki01/khaki01.github.io/main/kepler.gl1.json"
               name="myiFrame"
               className="w-full"
               //   width={800}

@@ -23,9 +23,7 @@ export default function Footer() {
                 </Link>
               </div>
               <div className="text-gray-400">
-                Lorem ipsum is placeholder text commonly used in the graphic,
-                print, and publishing industries for previewing layouts and
-                visual mockups.
+                GAZAR: made with love for the community of KAIST{" "}
               </div>
             </div>
 

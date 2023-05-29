@@ -214,9 +214,8 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2 text-center">Global Perspective</h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat.
+                With a whole map on your hand, you can see the whole image and
+                get a global perspective. A fresh look on an old data.
               </p>
             </div>
 
@@ -256,9 +255,8 @@ export default function Features() {
               </svg>
               <h4 className="h4 mb-2 text-center">Control individual cases</h4>
               <p className="text-lg text-gray-400 text-center">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat.
+                With the innovative map from Uber developers, interaction is
+                much easier than before. Explore each single data available.
               </p>
             </div>
 

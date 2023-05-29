@@ -51,9 +51,12 @@ export default function Zigzag() {
                     Drones provide freedom on the data
                   </h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Are you ready to take your data collection to new heights?
+                    Look no further than the Maverick 3 Drone, the ultimate
+                    aerial companion designed specifically for efficient and
+                    accurate data collection. With its cutting-edge features and
+                    advanced technology, the Maverick 3 empowers businesses and
+                    professionals to gather valuable data like never before.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -64,7 +67,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Unrivaled Precision</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -74,7 +77,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Unleash Aerial Efficiency</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -84,7 +87,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Seamless Integration and Real-Time Data</span>
                     </li>
                   </ul>
                 </div>
@@ -117,9 +120,11 @@ export default function Zigzag() {
                   </div>
                   <h3 className="h3 mb-3">AI models on work</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Harness the incredible potential of AI object detection
+                    models in your data analysis workflows. With their
+                    unparalleled ability to detect and classify objects within
+                    images and videos, these models provide a game-changing
+                    advantage for businesses across industries.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -130,7 +135,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Accurate Object Recognition</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -140,7 +145,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Enhanced Data Accuracy</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -150,7 +155,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Efficiency at Scale</span>
                     </li>
                   </ul>
                 </div>
@@ -183,9 +188,12 @@ export default function Zigzag() {
                   </div>
                   <h3 className="h3 mb-3">Tools made by enthusiasts</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua.
+                    Are you ready to explore your data in a whole new dimension?
+                    Introducing Kepler.gl, a powerful tool designed to harness
+                    the full potential of maps for data analysis. With its
+                    intuitive interface and advanced features, Kepler.gl
+                    empowers users to visualize, analyze, and extract meaningful
+                    insights from spatial data like never before.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -196,7 +204,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Duis aute irure dolor in reprehenderit</span>
+                      <span>Dynamic Data Visualization</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -206,7 +214,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Excepteur sint occaecat</span>
+                      <span>Powerful Mapping Capabilities</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -216,7 +224,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Amet consectetur adipiscing elit</span>
+                      <span>Open-Source Flexibility</span>
                     </li>
                   </ul>
                 </div>
